@@ -4,8 +4,6 @@
 
 ### 외부 참고자료
 
-#### 오픈소스 전반
-
 - https://naver.github.io/OpenSourceGuide/book/index.html
 
   > 국문, TBD
