@@ -2,19 +2,17 @@
 
 - - -
 
-### 디렉토리 설명
-
-TBD
-
-### 참고자료
+### 외부 참고자료
 
 #### 오픈소스 전반
 
 - https://naver.github.io/OpenSourceGuide/book/index.html
-  > 국문
+
+  > 국문, TBD
   
 - https://opensource.guide/
-  > 영문
+
+  > 영문, TBD
 
 - - -
 
