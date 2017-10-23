@@ -1,12 +1,12 @@
 ## 홈페이지
 
-https://joojis.github.io/OSS-Guide/
+https://cau-dosc.github.io/
 
 ## 문서에 기여하기
 
-오류, 개선 사항, 미흡한 부분에 대한 질문 등을 [이슈](https://github.com/joojis/OSS-Guide/issues)로 등록하여 구체적인 수정 방안에 대해 논의할 수 있습니다.
+오류, 개선 사항, 미흡한 부분에 대한 질문 등을 [이슈](https://github.com/CAU-DOCS/cau-dosc.github.io/issues)로 등록하여 구체적인 수정 방안에 대해 논의할 수 있습니다.
 
-오타와 같이 명백한 수정 사항은 논의없이 즉시 [풀 리퀘스트](https://github.com/joojis/OSS-Guide/pulls)를 주셔도 됩니다.
+오타와 같이 명백한 수정 사항은 논의없이 즉시 [풀 리퀘스트](https://github.com/CAU-DOCS/cau-dosc.github.io/pulls)를 주셔도 됩니다.
 
 GFM(GitHub-Flavored Markdown)
  - https://gist.github.com/ihoneymon/652be052a0727ad59601 (국문, 작성법)

@@ -19,4 +19,4 @@
  * [오픈소스 가이드](https://opensource.guide/) (영문)
 
 - - -
-[문서에 기여하기](https://github.com/joojis/OSS-Guide)
+[문서에 기여하기](contribution.md)
