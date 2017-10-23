@@ -1,6 +1,6 @@
 ## 회원가입
 
-1. https://github.com/ 접속
+1. [https://github.com/] 접속
 2. Username, Email, Password 입력 후 `Sign up for GitHub` 클릭
 
 ![](images/sign-up-for-github.PNG)
