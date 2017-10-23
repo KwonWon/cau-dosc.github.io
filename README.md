@@ -1,5 +1,3 @@
-오픈소스 프로젝트 개발 및 운영과 관련된 내용을 다루는 문서 저장소입니다.
-
 ## 홈페이지
 
 https://joojis.github.io/OSS-Guide/
