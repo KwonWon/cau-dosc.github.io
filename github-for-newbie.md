@@ -18,7 +18,7 @@
 
 ### 저장소에 올릴 `git commit`이 없는 경우
 
-![](empty-repo-create-a-new-on-the-command-line.PNG)
+![](images/empty-repo-create-a-new-on-the-command-line.PNG)
 
 ### 저장소에 올릴 `git commit`이 이미 있는 경우
 
