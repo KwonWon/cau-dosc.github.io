@@ -23,6 +23,8 @@ $ git config --local user.email <your email>
 
 ### 인증 확인
 
+git remote 주소 확인 방법 `git remote -v`
+
 #### https 인증 확인 (git remote 주소가 "http://"로 시작할 경우)
 
 https 인증 시에 git push 명령어 실행 시 ID/PASSWORD 입력을 요구하지 않을 경우 확인 (Windows)
