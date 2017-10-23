@@ -13,9 +13,9 @@
 ## Git 사용법가이드
 
 * [Effective Git](https://www.slideshare.net/kexplo/ndc2016-effective-git)
-  > NDC 2016 발표
+  > NDC 2016 발표
 * [Git Documentation](https://git-scm.com/doc)
-  > 영문 공식, 일부 번역 있음
+  > 영문 공식, 일부 번역 있음
 
 ## 공용PC에서 Git 사용 시 주의사항
 
