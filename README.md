@@ -6,7 +6,7 @@
 
 - https://naver.github.io/OpenSourceGuide/book/index.html
 
-  > 국문, TBD
+  > 국문, 네이버 GitHub Pages, 오픈소스 라이선스, 오픈소스 기여, 오픈소스 운영 전반
   
 - https://opensource.guide/
 
