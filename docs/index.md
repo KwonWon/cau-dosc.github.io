@@ -2,10 +2,14 @@
   * Git 튜토리얼
   * 공용PC 사용시 주의사항
 
-* [오픈소스](repository.html)
+* [오픈소스 프로젝트](opensource-project.html)
   * 오픈소스 프로젝트 운영 시 참고사항
   * 저장소 공개 전 주의사항
 
+* [오픈소스라이선스](opensource-license.html)
+  * 오픈소스 라이선스 소개
+  * 라이선스 비교표
+  * ...
 
 - - -
 
