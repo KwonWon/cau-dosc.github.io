@@ -18,7 +18,10 @@
 
 ### 저장소에 올릴 `git commit`이 없는 경우
 
+아래 스크린샷의 명령어 실행. 단, `git remote add` 명령어에서 "https://"로 시작하는 주소를 자신이 생성한 저장소로 설정
+
 ![](images/empty-repo-create-a-new-on-the-command-line.PNG)
+
 
 ### 저장소에 올릴 `git commit`이 이미 있는 경우
 
