@@ -14,7 +14,7 @@ $ git config --local user.email <your email>
 
 - ### GitHub 프로젝트에 콜라보레이터로 추가되어 있는지 확인
 
-  [콜라보레이터 추가 방법](github-for-newbie.html#콜라보레이터-추가)
+  [콜라보레이터 추가 방법](github-for-newbie.html#4-콜라보레이터-추가)
 
 - ### 작성자/이메일 확인
 
