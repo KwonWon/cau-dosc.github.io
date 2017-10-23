@@ -29,7 +29,7 @@ $ git config --local user.email <your email>
 
   https 인증 시에 git push 명령어 실행 시 ID/PASSWORD 입력을 요구하지 않을 경우 확인 (Windows)
    - 윈도우에서 "자격 증명 관리" 검색하여 프로그램 열기
-   - github 관련 자격증명 삭제 후 재시도
+   - GitHub 관련 자격증명 삭제 후 재시도
 
   #### ssh 인증 확인 (git remote 주소가 "git@github.com:" 로 시작할 경우)
 
@@ -38,7 +38,7 @@ $ git config --local user.email <your email>
    - [GitHub SSH 키 생성 및 등록하여 사용하기](http://nickjoit.tistory.com/94)
      > 국문, 블로그
 
-## 3. 설치 시 주의사항
+## 3. Git 설치 시 주의사항
 
  * Enable Git Credential Manager 체크박스 해제
 
