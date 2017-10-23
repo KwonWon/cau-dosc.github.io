@@ -12,16 +12,16 @@ $ git config --local user.email <your email>
 
 ## 2. git push 실패 시 (permission denied)
 
-### GitHub 프로젝트에 콜라보레이터로 추가되어 있는지 확인
+- ### GitHub 프로젝트에 콜라보레이터로 추가되어 있는지 확인
 
 [콜라보레이터 추가 방법](github-for-newbie.html#콜라보레이터-추가)
 
-### 작성자/이메일 확인
+- ### 작성자/이메일 확인
 
 1. git commit의 작성자/이메일이 GitHub 계정에 등록한 이름과 이메일이 일치하는지 확인
 2. 일치하지 않을 경우 `git commit --amend --author="yourname <youremail>"` 혹은 `git config` 설정 후 `git commit --amend --reset-author`로 commit 수정
 
-### 인증 확인
+- ### 인증 확인
 
 git remote 주소 확인 방법 `git remote -v`
 
