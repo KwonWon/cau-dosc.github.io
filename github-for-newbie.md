@@ -12,7 +12,7 @@
 
 ![](images/create-new-repository.PNG)
 
-## 소스코드 올리기 (troubleshoot)
+## 소스코드 올리기
 
 1. 올릴 소스코드를 `git commit` 형태로 준비
 2. 프로젝트 메인 페이지의 Quick setup 항목에서 HTTPS 클릭하여 `https://`로 시작하는 주소 복사
@@ -32,6 +32,6 @@
 
 ![](images/settings-collaborator.PNG)
 
-## 소스코드 내려받기 (troubleshoot)
+## 소스코드 내려받기
 
 TBA
