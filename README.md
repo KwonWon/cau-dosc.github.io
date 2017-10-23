@@ -1,20 +1,10 @@
 오픈소스 프로젝트 개발 및 운영과 관련된 내용을 다루는 문서 저장소입니다.
 
-- - -
+## 홈페이지
 
-### 외부 참고자료
+https://joojis.github.io/OSS-Guide/
 
-- https://naver.github.io/OpenSourceGuide/book/index.html
-
-  > 국문, 네이버 GitHub Pages, 오픈소스 라이선스, 오픈소스 기여, 오픈소스 운영 전반
-  
-- https://opensource.guide/
-
-  > 영문, TBD
-
-- - -
-
-### 문서에 기여하기
+## 문서에 기여하기
 
 오류, 개선 사항, 미흡한 부분에 대한 질문 등을 [이슈](https://github.com/joojis/OSS-Guide/issues)로 등록하여 구체적인 수정 방안에 대해 논의할 수 있습니다.
 
