@@ -22,7 +22,7 @@
 ![](images/empty-repo-quick-setup.PNG)
 
 3. `git remote add origin https://...` 명령어로 주소 추가
-4. `git push -u origin master` 명령어로 현재 commit 푸시 ([`git push` 실패 시 체크리스트](notices-to-use-git-on-laboratory-pc.html#git-push-실패-시-permission-denied))
+4. `git push -u origin master` 명령어로 현재 commit 푸시 ([`git push` 실패 시 체크리스트](notices-to-use-git-on-laboratory-pc.html#2-git-push-실패-시-permission-denied))
 
 ![](images/empty-repo-create-a-new-on-the-command-line.PNG)
 
