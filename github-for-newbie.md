@@ -9,7 +9,7 @@
 
 ## 2. 프로젝트 생성
 
-1. 화면 우측 `New repository` 클릭
+1. 화면 우측 ![](images/new-repository-button.PNG) 클릭
 2. `Owner` 확인 후 `Repository name`에 프로젝트 이름 기입 후 `Create repository` 클릭
 
 ![](images/create-new-repository.PNG)
