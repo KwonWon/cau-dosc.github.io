@@ -10,7 +10,7 @@
   > 영문
 
 
-## Git 사용법가이드
+## Git 사용법 가이드
 
 * [Effective Git](https://www.slideshare.net/kexplo/ndc2016-effective-git)
   > NDC 2016 발표
