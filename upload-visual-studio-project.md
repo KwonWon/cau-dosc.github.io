@@ -37,3 +37,11 @@
     ![](images/visual-studio-git-add-and-git-commit.PNG)
 
 - `&&`는 순차처리를 의미합니다. `git add . && git commit ...` 명령어는 `git add .`를 수행하여 성공할 경우 `git commit ...`를 수행 합니다.
+
+- git commit이 실패할 경우 commit 작성자 설정이 있는지 확인하세요. 아래 명령어를 통해 추가할 수 있습니다.
+  > `git config --local user.name "your name here"`
+  >
+  >  `git config --local user.email "your@email.here"`
+
+    ![](images/git-config-local-user.PNG)
+
