@@ -35,3 +35,5 @@
 2. `git commit` 명령어를 통해 `git add`로 올려진 파일을 패치로 확정짓습니다. commit 단위로 GitHub 저장소에 업로드가 가능합니다.
     
     ![](images/visual-studio-git-add-and-git-commit.PNG)
+
+- `&&`는 순차처리를 의미합니다. `git add . && git commit ...` 명령어는 `git add .`를 수행하여 성공할 경우 `git commit ...`를 수행 합니다.
