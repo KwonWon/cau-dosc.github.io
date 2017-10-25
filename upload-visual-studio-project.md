@@ -2,7 +2,7 @@
 
 ## git bash 열기
 
-바탕화면의 ![](images/git-bash.PNG)를 찾아 열거나, 없을 경우 공식 홈페이지에서 다운로드([바로가기 링크](https://git-scm.com/downloads)) 합니다.
+바탕화면의 ![](images/git-bash.PNG)를 찾아 열거나, 없을 경우 공식 홈페이지에서 다운로드([바로가기 링크](https://git-scm.com/downloads))하여 설치합니다.
 
 ## Visual Studio 프로젝트 폴더로 이동
 
