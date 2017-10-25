@@ -33,17 +33,37 @@
 
 ## `git add`, `git commit` 명령어로 업로드 할 파일 추가
 
-1. `git add .` 명령어를 통해 무시할 파일 외의 모든 파일을 Git에 올립니다.
-2. `git commit` 명령어를 통해 `git add`로 올려진 파일을 패치로 확정짓습니다. commit 단위로 GitHub 저장소에 업로드가 가능합니다.
+1. `git init` 명령어로 프로젝트 폴더를 Git 저장소로 만듭니다.
+
+   ![](images/visual-studio-git-init.PNG)
+
+2. `git add .` 명령어를 통해 무시할 파일 외의 모든 파일을 Git에 올립니다.
+3. `git commit` 명령어를 통해 `git add`로 올려진 파일을 패치로 확정짓습니다. commit 단위로 GitHub 저장소에 업로드가 가능합니다.
     
-    ![](images/visual-studio-git-add-and-git-commit.PNG)
+   ![](images/visual-studio-git-add-and-git-commit.PNG)
 
 - `&&`는 순차처리를 의미합니다. `git add . && git commit ...` 명령어는 `git add .`를 수행하여 성공할 경우 `git commit ...`를 수행 합니다.
 
 - git commit이 실패할 경우 commit 작성자 설정이 있는지 확인하세요. 아래 명령어를 통해 추가할 수 있습니다.
   > `git config --local user.name "your name here"`
   >
-  >  `git config --local user.email "your@email.here"`
+  > `git config --local user.email "your@email.here"`
 
     ![](images/git-config-local-user.PNG)
 
+## GitHub에 push 하기
+
+1. GitHub 저장소에 commit을 업로드하기 위해 GitHub에 생성한 내 프로젝트 페이지로 가서 Git 주소를 복사합니다.
+
+   ![](images/empty-repo-quick-setup.PNG)
+   
+2. `git remote add origin http://...` 명령어로 추가합니다. 해당 주소에 origin 이란 이름을 붙이는 과정입니다.
+3. `git push -u origin master` 명령어로 현재까지 작성된 commit을 GitHub의 Git 저장소에 업로드합니다.
+
+   ![](images/visual-studio-git-remote-add-and-git-push.PNG)
+   
+4. 아래 화면 혹은 git bash 창에서 id/password 입력을 요구하면 GitHub의 아이디/패스워드를 입력하여 인증합니다.
+
+   ![](images/github-login.PNG)
+   
+- [push 실패 시에 체크리스트](notices-to-use-git-on-laboratory-pc.html#2-git-push-실패-시-permission-denied)
