@@ -24,7 +24,8 @@
    
 1. Visual Studio 프로젝트 폴더에서 아래 `curl` 명령어를 수행합니다. 아래 명령어를 통해 Visual Studio 용으로 미리 만들어진 `.gitignore` 파일을 저장합니다
 
-   > curl https://www.gitignore.io/api/visualstudio > .gitignore
+   > `curl https://www.gitignore.io/api/visualstudio > .gitignore`
+   
    ![](images/curl-gitignore-io.PNG)
 
 
