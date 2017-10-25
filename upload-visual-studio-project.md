@@ -53,7 +53,7 @@
 
 ## GitHub에 push 하기
 
-1. GitHub 저장소에 commit을 업로드하기 위해 GitHub에 생성한 내 프로젝트 페이지로 가서 Git 주소를 복사합니다.
+1. GitHub 저장소에 commit을 업로드하기 위해 GitHub에 생성한 내 프로젝트 페이지로 가서 Git 주소를 복사합니다. ([GitHub 프로젝트 생성 가이드](github-for-newbie.html))
 
    ![](images/empty-repo-quick-setup.PNG)
    
