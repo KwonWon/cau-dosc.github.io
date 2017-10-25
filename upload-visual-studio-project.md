@@ -20,12 +20,11 @@
 
 - 버전 관리를 효과적으로 하기 위해서는 모든 파일을 올리는 것보다 꼭 필요한 파일만 관리하고 나머지는 무시하는 것이 좋습니다. `.gitignore` 파일에 디렉토리 이름이나 파일 이름을 적어서 Git 최상위 디렉토리에 저장해두면 해당 파일이나 디렉토리는 git에서 추적하거나 저장하지 않습니다. [https://gitignore.io/](https://gitignore.io/)는 프로젝트 설정에 따라 미리 만들어진 `.gitignore` 파일을 제공합니다.
 
-   > curl https://www.gitignore.io/api/visualstudio > .gitignore
-   
    ![](images/gitignore-io-visual-studio.PNG)
    
 1. Visual Studio 프로젝트 폴더에서 아래 `curl` 명령어를 수행합니다. 아래 명령어를 통해 Visual Studio 용으로 미리 만들어진 `.gitignore` 파일을 저장합니다
 
+   > curl https://www.gitignore.io/api/visualstudio > .gitignore
    ![](images/curl-gitignore-io.PNG)
 
 
