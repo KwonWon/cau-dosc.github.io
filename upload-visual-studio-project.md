@@ -40,11 +40,13 @@
 2. `git add .` 명령어를 통해 무시할 파일 외의 모든 파일을 Git에 올립니다.
 3. `git commit` 명령어를 통해 `git add`로 올려진 파일을 패치로 확정짓습니다. commit 단위로 GitHub 저장소에 업로드가 가능합니다.
     
+   * 참고: [Vi 에디터로 커밋 메시지 작성 방법](how-to-write-commit-messages-using-vi.html)
+    
    ![](images/visual-studio-git-add-and-git-commit.PNG)
 
 - `&&`는 순차처리를 의미합니다. `git add . && git commit ...` 명령어는 `git add .`를 수행하여 성공할 경우 `git commit ...`를 수행 합니다.
 
-- git commit이 실패할 경우 commit 작성자 설정이 있는지 확인하세요. 아래 명령어를 통해 추가할 수 있습니다.
+- `git commit`이 실패할 경우 commit 작성자 설정이 있는지 확인하세요. 아래 명령어를 통해 추가할 수 있습니다.
   > `git config --local user.name "your name here"`
   >
   > `git config --local user.email "your@email.here"`
