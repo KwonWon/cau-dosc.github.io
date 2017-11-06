@@ -27,8 +27,8 @@ Vi를 처음 열면 아래처럼 화면이 나타납니다.
 2. `i`를 눌러 `edit mode`로 들어갑니다. `edit mode`가 되면 아래 스크린샷처럼 맨 아래에 `-- 끼워넣기 --`가 나타납니다.
    > ![](images/git-commit-vi-insert-mode.PNG)
 
-3. 커밋 메시지(예: `Initial commit`)를 입력하고 `esc` 키를 눌러 `edit mode`를 나간 뒤에 `:wq`를 차례대로 눌러 아래처럼 맨 아래 라인에 `:wq`가 입력되도록 합니다.
-   > ![](images/git-commit-vi-wq.PNG)
+3. 커밋 메시지(예: `Initial commit`)를 입력하고 `esc` 키를 눌러 `edit mode`를 나간 뒤에 `:wq`를 차례대로 눌러 아래처럼 맨 아래 라인에 `:wq`가 입력하고 엔터를 누릅니다.
+   > ![](images/git-commit-vi-wq.PNG)
 
 4. `w`는 저장, `q`는 편집기 종료를 나타냅니다. `wq`는 저장과 동시에 편집기를 종료하는 명령입니다.
 
