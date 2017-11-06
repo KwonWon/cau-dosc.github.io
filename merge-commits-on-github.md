@@ -18,7 +18,7 @@
 
    ![](images/git-status-up-to-date-and-working-tree-clean.PNG)
 
-   > up-to-date인 경우 합칠 커밋이 없으므로 아무 작업할 필요가 없습니다.
+   >  up-to-date인 경우 합칠 커밋이 없으므로 아무 작업할 필요가 없습니다.
 
 2. 작업 중인 PC에만 새로운 커밋이 있는 경우 (branch is ahead)
 
