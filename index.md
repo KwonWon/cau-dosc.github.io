@@ -4,4 +4,7 @@
 ## 4. [공용PC에서 Git 사용 시 주의사항](notices-to-use-git-on-laboratory-pc.html)
 
 - - -
+문의사항: [GitHub 이슈 등록](https://github.com/CAU-DOSC/cau-dosc.github.io/issues/new) 혹은 이메일: jjg.joojis@gmail.com
+
+- - -
 [문서에 기여하기](contribution.md)
