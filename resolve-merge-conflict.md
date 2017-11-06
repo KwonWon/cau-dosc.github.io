@@ -50,11 +50,11 @@ Git에서의 충돌을 설명하기 위해 아래처럼 `source.cpp` 파일이 �
 #include <stdio.h>
 int main () {
 <<<<<<< HEAD
-	printf("BBBBB\n");
+    printf("AAAAA\n");
 =======
-    printf("AAAAA\n");
+    printf("BBBBB\n");
 >>>>>>> 4007bc0... 
-	return 0;
+    return 0;
 }
 ```
 
@@ -65,8 +65,8 @@ int main () {
 ```
 #include <stdio.h>
 int main () {
-	printf("AAAAA\nBBBBB\n");
-	return 0;
+    printf("AAAAA and BBBBB\n");
+    return 0;
 }
 ```
 
