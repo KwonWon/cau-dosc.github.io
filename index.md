@@ -1,6 +1,6 @@
 ## 1. [GitHub 사용 가이드](github-for-newbie.html)
 ## 2. [Visual Studio 프로젝트를 GitHub에 업로드 하기](upload-visual-studio-project.html)
-## 3. [Vi 에디터로 커밋 메시지 작성 방법](how-to-write-commit-messages-using-vi.html)
+## 3. [Vi 에디터를 이용한 커밋 메시지 작성 방법](how-to-write-commit-messages-using-vi.html)
 ## 4. [GitHub에서 Visual Studio 프로젝트 복사하기](clone-vs-project-from-github.html)
 ## 5. GitHub에 올라온 커밋 합치기 (TBA)
 ## 6. 합병 충돌 해결하기 (TBA)
