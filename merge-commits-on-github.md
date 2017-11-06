@@ -18,9 +18,13 @@
 
    ![](images/git-status-up-to-date-and-working-tree-clean.PNG)
 
+   > up-to-date인 경우 합칠 커밋이 없으므로 아무 작업할 필요가 없습니다.
+
 2. 작업 중인 PC에만 새로운 커밋이 있는 경우 (branch is ahead)
 
    ![](images/git-status-the-branch-is-ahead.PNG)
+
+   > ahead인 경우 GitHub에서 가져올 내용이 없고, push하여 올리면 됩니다. ([GitHub에 push하기](upload-visual-studio-project.html))
 
 3. GitHub에만 새로운 커밋이 있는 경우 (branch is behind)
 
