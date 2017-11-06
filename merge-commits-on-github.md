@@ -30,6 +30,7 @@
 
    ![](images/git-status-the-branch-have-diverged.PNG)
 
+## `git pull` 명령어로 합치기
 
 GitHub에만 업데이트가 있는 3의 경우 `git pull` 명령어로 간단하게 합칠 수 있습니다.
 
