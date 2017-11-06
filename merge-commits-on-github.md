@@ -6,14 +6,35 @@
 
 ![](images/git-status-up-to-date-and-working-tree-clean.PNG)
 
-## `git remote update` 명령어로 GitHub 저장소를 다운로드
+## `git remote update` 명령어로 GitHub에 올라온 업데이트를 다운로드
 
 ![](images/git-remote-update.PNG)
 
 ## `git status` 명령어로 합칠 커밋이 있는지 확인
 
-TBA
+현재 작업 중인 PC와 GitHub의 상태에 따라 네 가지 경우가 있습니다.
 
-![](images/git-status-the-branch-is-ahead.PNG)
-![](images/git-status-the-branch-is-behind.PNG)
-![](images/git-status-the-branch-have-diverged.PNG)
+1. 둘 다 업데이트가 없는 경우 (branch is up-to-date)
+
+   ![](images/git-status-up-to-date-and-working-tree-clean.PNG)
+
+2. 작업 중인 PC에만 새로운 커밋이 있는 경우 (branch is ahead)
+
+   ![](images/git-status-the-branch-is-ahead.PNG)
+
+3. GitHub에만 새로운 커밋이 있는 경우 (branch is behind)
+
+   ![](images/git-status-the-branch-is-behind.PNG)
+
+4. PC와 GitHub에 모두 새로운 커밋이 있는 경우 (branch have diverged)
+
+   ![](images/git-status-the-branch-have-diverged.PNG)
+
+
+GitHub에만 업데이트가 있는 3의 경우 `git pull` 명령어로 간단하게 합칠 수 있습니다.
+
+![](images/git-pull-fast-forward.PNG)
+
+4의 경우도 `git pull` 명령어로 합칠 수 있습니다. 다만, 내가 작성한 커밋과 충돌이 있을 경우 아래처럼 CONFLICT가 발생할 수 있습니다. 이 경우 [충돌 해결하기 문서](resolve-merge-conflict.html)를 참고하세요. 
+
+![](images/git-pull-merge-conflict.PNG)
