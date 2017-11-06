@@ -1,4 +1,4 @@
-# Vi 에디터로 커밋 메시지 작성 방법
+# Vi 에디터를 이용한 커밋 메시지 작성 방법
 
 추천 읽기 자료: [vi란? - KLDP wiki](https://wiki.kldp.org/KoreanDoc/html/Vim_Guide-KLDP/Vim_Guide-KLDP.html)
 
