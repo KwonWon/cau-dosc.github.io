@@ -24,7 +24,7 @@
 
    ![](images/git-status-the-branch-is-ahead.PNG)
 
-   > ahead인 경우 GitHub에서 가져올 내용이 없고, push하여 올리면 됩니다. ([GitHub에 push하기](upload-visual-studio-project.html))
+   > ahead인 경우 GitHub에서 가져올 내용이 없고, push하여 올리면 됩니다. ([GitHub에 push하기](upload-visual-studio-project.html#github에-push-하기))
 
 3. GitHub에만 새로운 커밋이 있는 경우 (branch is behind)
 
