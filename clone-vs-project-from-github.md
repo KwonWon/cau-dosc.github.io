@@ -1,4 +1,4 @@
-# GitHub에서 Visual Studio 프로젝트 클론하기
+# GitHub에서 Visual Studio 프로젝트 복사하기
 
 ## GitHub 프로젝트 페이지에서 Git 주소 복사하기
 
