@@ -18,11 +18,10 @@
 
 1. 조직 메인페이지([https://github.com/CAU-DOSC](https://github.com/CAU-DOSC))로 이동합니다.
 2. ![](images/org-tab-teams.PNG) 탭을 선택합니다.
-3. ![](images/org-new-team-button.PNG) 버튼을 눌러 새 팀을 생성합니다.
+3. ![](images/org-new-team-button.PNG) 버튼을 눌러 팀 생성 페이지로 이동합니다.
+4. `Team name`을 입력하고 `Parent Team`을 선택한 뒤 ![](images/org-create-team-button.PNG) 버튼을 눌러 팀을 생성합니다.
 
    ![](images/org-create-new-team.PNG)
-
-4. `Team name`을 입력하고 `Parent Team`을 선택한 뒤 ![](images/org-create-team-button.PNG) 버튼을 눌러 팀을 생성합니다.
 
 ## 프로젝트 생성하기
 
