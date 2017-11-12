@@ -40,6 +40,8 @@
 
 3. `Repository Name` 항목에 저장소 이름을 입력하고 ![](images/create-repository-button.PNG)를 눌러 저장소를 생성합니다.
 
+   ![](images/create-new-repo-example.PNG)
+
 ## 프로젝트에 팀 등록하기
 
 생성한 저장소에 다른 사람이 `git push` 하기 위해서는 저장소 설정에서 Collaborator 혹은 Team으로 추가되어야 합니다.
