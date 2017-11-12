@@ -11,11 +11,11 @@
 
 ## 2. 프로젝트 생성
 
-#### 수업 실습용 프로젝트 생성
+### 2-1. 수업 실습용 프로젝트 생성
 
 [CAU-DOSC 조직 내 팀 및 프로젝트 생성](create-org-repo.html) 페이지 참고
 
-#### 개인 프로젝트 생성
+### 2-2. 개인 프로젝트 생성
 
 1. 화면 우측 ![](images/new-repository-button.PNG) 클릭
 2. `Owner` 확인 후 `Repository name`에 프로젝트 이름 기입 후 `Create repository` 클릭
