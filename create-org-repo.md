@@ -23,7 +23,9 @@
 
 ## 팀원 초대하기
 
-TBA
+1. 생성된 팀 페이지에서 ![](images/add-a-member-button.PNG) 버튼을 누릅니다.
+2. 나온 창에서 초대하려는 팀의 GitHub 아이디나 이메일을 입력해 추가합니다.
+   - 추가하려는 팀원이 조직 소속이 아니면 추가되지 않습니다.
 
 ## 프로젝트 생성하기
 
@@ -38,13 +40,21 @@ TBA
 
 생성한 저장소에 다른 사람이 `git push` 하기 위해서는 저장소 설정에서 Collaborator 혹은 Team으로 추가되어야 합니다.
 
-1. 프로젝트 메인 페이지에서 ![](images/repo-tab-settings.PNG) 탭으로 이동합니다. 프로젝트 생성자 혹은 관리자가 아니면 이 탭이 보이지 않습니다.
+1. 프로젝트 메인 페이지에서 ![](images/repo-tab-settings.PNG) 탭으로 이동합니다. 저장소 생성자 혹은 관리자가 아니면 이 탭이 보이지 않습니다.
 2. Settings 탭에서 오른쪽의 `Collaborators & Teams` 항목을 클릭해 해당 페이지로 이동합니다.
 
    ![](images/repo-settings-tabs.PNG)
 
 3. Teams 항목에서 `Select Team`을 눌러 나오는 창에서 추가할 팀을 선택합니다.
+4. 추가된 팀의 권한을 `Read`에서 `Write`로 변경합니다.
+
+   ![](images/team-permission.PNG)
 
 ## 팀 권한 위임하기
 
-TBA
+1. 해당 팀 페이지에서 `Members` 탭으로 선택합니다.
+2. 멤버 리스트에서 권한을 위임할 멤버 왼쪽의 체크박스를 선택합니다.
+3. 멤버를 선택하면 리스트 상단에 나타나는 ![](images/team-member-selected.PNG) 드롭다운 버튼을 누르고 `Change role...`을 클릭합니다.
+4. 나타난 창에서 `Maintainer`를 선택하고 `Change role` 버튼을 선택합니다.
+
+   ![](images/team-select-a-new-role.PNG)
