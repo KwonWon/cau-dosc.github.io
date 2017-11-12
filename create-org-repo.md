@@ -21,7 +21,9 @@
 3. ![](images/org-new-team-button.PNG) 버튼을 눌러 팀 생성 페이지로 이동합니다.
 4. `Team name`을 입력하고 `Parent Team`을 선택한 뒤 ![](images/org-create-team-button.PNG) 버튼을 눌러 팀을 생성합니다.
 
-   > `Parent Team`은 소속된 수업에서 지정한 Team을 선택하세요. 해당 Team을 선택할 수 없는 경우 권한이 없는 것이므로 관리자에게 문의하세요. ![](images/org-create-new-team.PNG)
+   > `Parent Team`은 소속된 수업에서 지정한 Team을 선택하세요.
+   > 해당 Team을 선택할 수 없는 경우 권한이 없는 것이므로 Parent Team을 선택하지 않은 채로 Team을 생성한 후 관리자에게 문의하세요.
+   > ![](images/org-create-new-team.PNG)
 
 ## 팀원 초대하기
 
