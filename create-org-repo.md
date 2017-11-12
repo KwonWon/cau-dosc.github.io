@@ -61,7 +61,10 @@
 
 팀 내에 새로운 팀을 추가하거나 팀원을 초대할 수 있도록 다른 사람에게 권한을 위임할 수 있습니다.
 
-1. 해당 팀 페이지에서 `Members` 탭으로 선택합니다.
+1. 해당 팀 페이지에서 ![](images/org-tab-members.PNG) 탭을 선택합니다.
+
+   > ![](images/org-team-tabs.PNG)
+
 2. 멤버 리스트에서 권한을 위임할 멤버 왼쪽의 체크박스를 선택합니다.
 
    > ![](images/member-list-example.PNG)
