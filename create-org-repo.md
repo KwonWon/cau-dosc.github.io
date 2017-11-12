@@ -40,7 +40,7 @@
 
 3. `Repository Name` 항목에 저장소 이름을 입력하고 ![](images/create-repository-button.PNG)를 눌러 저장소를 생성합니다.
 
-   ![](images/create-new-repo-example.PNG)
+   ![](images/create-a-new-repo-example.PNG)
 
 ## 프로젝트에 팀 등록하기
 
