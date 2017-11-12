@@ -31,7 +31,7 @@
 
 ## 프로젝트 생성하기
 
-1. GitHub 오른쪽 상단의 ![](images/plus-button-on-the-top.PNG)을 누르고 ![](images/new-repository-button.PNG)을 눌러 저장소 생성 페이지로 이동합니다.
+1. GitHub 오른쪽 상단의 ![](images/plus-button-on-the-top.PNG) 드롭다운 버튼을 누르고 ![](images/new-repository-button.PNG)을 눌러 저장소 생성 페이지로 이동합니다.
 2. 프로젝트 생성 탭에서 `Owner`를 CAU-DOSC로 지정합니다.
    
    > ![](images/create-new-repo-owner.PNG)
