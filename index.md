@@ -11,4 +11,4 @@
 문의사항: [GitHub 이슈 등록](https://github.com/CAU-DOSC/cau-dosc.github.io/issues/new) 혹은 이메일: jjg.joojis@gmail.com
 
 - - -
-[문서에 기여하기](contribution.md)
+[문서에 기여하기](https://github.com/CAU-DOSC/cau-dosc.github.io)
