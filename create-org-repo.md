@@ -3,9 +3,11 @@
 ## CAU-DOSC 조직 가입하기 (관리자 승인 필요)
 
 1. jjg.joojis@gmail.com 으로 GitHub 아이디와 이름을 보내면 관리자가 확인 후 초대를 보냅니다.
-2. GitHub에 로그인하면 나타나는 `View Invitation`을 클릭한 뒤 `Join` 버튼을 누릅니다.
+2. GitHub에 로그인하면 나타나는 `View Invitation`을 클릭합니다. 
 
-   ![](images/org-invitations.PNG)
+   ![](images/org-invitation.PNG)
+
+3. 초대 페이지에서 `Join ...(조직이름)` 버튼을 누릅니다.
 
    ![](images/org-join.PNG)
 
