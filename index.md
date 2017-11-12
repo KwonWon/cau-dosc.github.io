@@ -5,6 +5,7 @@
 ## 5. [GitHub에 올라온 커밋 합치기](merge-commits-on-github.html)
 ## 6. [합병 충돌 해결하기](resolve-merge-conflict.html)
 ## 7. [공용PC에서 Git 사용 시 주의사항](notices-to-use-git-on-laboratory-pc.html)
+## 8. [CAU-DOSC 조직 내 팀 및 프로젝트 생성](create-org-repo.html)
 
 - - -
 문의사항: [GitHub 이슈 등록](https://github.com/CAU-DOSC/cau-dosc.github.io/issues/new) 혹은 이메일: jjg.joojis@gmail.com
