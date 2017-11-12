@@ -54,6 +54,9 @@
 
 1. 해당 팀 페이지에서 `Members` 탭으로 선택합니다.
 2. 멤버 리스트에서 권한을 위임할 멤버 왼쪽의 체크박스를 선택합니다.
+
+   ![](images/member-list-example.PNG)
+
 3. 멤버를 선택하면 리스트 상단에 나타나는 ![](images/team-member-selected.PNG) 드롭다운 버튼을 누르고 `Change role...`을 클릭합니다.
 4. 나타난 창에서 `Maintainer`를 선택하고 `Change role` 버튼을 선택합니다.
 
