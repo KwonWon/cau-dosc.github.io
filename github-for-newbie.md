@@ -7,12 +7,22 @@
 
    ![](images/sign-up-for-github.PNG)
 
+3. 가입한 이메일로 이메일 인증 주소가 전송됩니다. 해당 주소를 클릭해 이메일 주소 인증하여야만 저장소 생성이 가능합니다.
+
 ## 2. 프로젝트 생성
+
+#### 수업 실습용 프로젝트 생성
+
+[CAU-DOSC 조직 내 팀 및 프로젝트 생성](create-org-repo.html) 페이지 참고
+
+#### 개인 프로젝트 생성
 
 1. 화면 우측 ![](images/new-repository-button.PNG) 클릭
 2. `Owner` 확인 후 `Repository name`에 프로젝트 이름 기입 후 `Create repository` 클릭
 
    ![](images/create-new-repository.PNG)
+
+3. [콜라보레이터 추가](#4-콜라보레이터-추가) 항목 참고
 
 ## 3. 소스코드 올리기
 
