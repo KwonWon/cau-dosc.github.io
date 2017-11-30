@@ -10,7 +10,7 @@
 
 # 오픈소스 개발 참고자료
 
-* ## 1. 유용한 오픈소스 프로젝트 (TBA)
+* ## 1. [유용한 오픈소스 프로젝트](useful-opensource-projects.html)
 
 - - -
 문의사항: [GitHub 이슈 등록](https://github.com/CAU-DOSC/cau-dosc.github.io/issues/new) 혹은 이메일: jjg.joojis@gmail.com
