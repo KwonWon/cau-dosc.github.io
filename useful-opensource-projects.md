@@ -10,7 +10,7 @@
 
 * https://github.com/trending
 
-  > GitHub Trending: GitHub 저장소를 기준으로 활발하게 개발되는 오픈소스 프로젝트를 볼 수 있음, 언어별 필터 가능
+  > GitHub Trending: GitHub 저장소를 기준으로 활발하게 개발되는 오픈소스 프로젝트를 볼 수 있음, 언어별 필터 가능
   
 * http://www.itworld.co.kr/slideshow/98526
 
