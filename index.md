@@ -8,7 +8,7 @@
 * ## 7. [공용PC에서 Git 사용 시 주의사항](notices-to-use-git-on-laboratory-pc.html)
 * ## 8. [CAU-DOSC 조직 내 팀 및 프로젝트 생성](create-org-repo.html)
 
-# 오픈소스 개발 참고자료
+# 오픈소스 참고자료
 
 * ## 1. [유용한 오픈소스 프로젝트](useful-opensource-projects.html)
 
