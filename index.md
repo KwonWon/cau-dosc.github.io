@@ -11,6 +11,7 @@
 # 오픈소스 참고자료
 
 * ## 1. [유용한 오픈소스 프로젝트](useful-opensource-projects.html)
+* ## 2. [오픈소스 컨트리뷰션 참고자료](references-for-opensource-project-development.html)
 
 - - -
 문의사항: [GitHub 이슈 등록](https://github.com/CAU-DOSC/cau-dosc.github.io/issues/new) 혹은 이메일: jjg.joojis@gmail.com
