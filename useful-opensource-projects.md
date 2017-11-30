@@ -6,8 +6,8 @@
 
 * https://github.com/trending
 
-  > GitHub Trending: TBA
+  > GitHub Trending: TBA
   
 * http://www.itworld.co.kr/slideshow/98526
 
-  > ITWorld, 2016 오픈소스 프로젝트 14선: TBA
+  > ITWorld, 2016 오픈소스 프로젝트 14선: TBA
