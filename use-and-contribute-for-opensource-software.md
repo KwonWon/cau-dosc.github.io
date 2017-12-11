@@ -11,11 +11,11 @@
 
 개인용 소프트웨어는 물론이고 이메일 서비스나 채팅 프로그램, 협업 프로그램 등도 오픈소스 소프트웨어 활용이 가능합니다. 예를 들어 GitHub의 유료 기능들을 무료로 사용하기 위해 오픈소스 프로젝트인 GitLab을 사용할 수도 있습니다.
 
-| 상용 서비스 | Self-Hosting 가능한 오픈소스 프로젝트 |
-| ------------- | ------------- |
-| 구글 드라이브 | OwnCloud |
-| GitHub | GitLab |
-| ... | ... | 
+| 제품 구분 | 상용 서비스 | Self-Hosting 가능한 오픈소스 프로젝트 |
+| ------------- | ------------- | ------------- |
+| 클라우드 스토리지 | 구글 드라이브 | OwnCloud |
+| 프로젝트 호스팅 | GitHub | GitLab |
+| ... | ... | ... | 
 
 [https://opensource.com/resources/projects-and-applications](https://opensource.com/resources/projects-and-applications)
 > Gmail, Trello 등 협업 도구, 생산성 도구, 유틸리티 등 오픈소스 대체품(alternatives) 정리된 목록
