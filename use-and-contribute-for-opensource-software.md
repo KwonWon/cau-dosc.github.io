@@ -23,6 +23,7 @@
 다운로드를 받아 소프트웨어를 사용하면서 불편한 점은 메뉴 혹은 홈페이지 등을 통해 피드백을 전달할 수 있습니다. 아래는 우분투에 기본 설치되어 있는 LibreOffice의 메뉴입니다. Help의 Send Feedback...을 누르면 웹 페이지로 이동하여 "Create a bug report"를 통해 **버그 리포트**를 하거나 "File an enhancement request"를 통해 **개선점을 제안**할 수 있습니다.
 
 ![](images/libre-menu.png)
+
 ![](images/libre-feedback-main.png)
 
 ## 메일링리스트 구독 등 커뮤니티 참여
