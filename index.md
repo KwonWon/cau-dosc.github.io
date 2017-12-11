@@ -13,8 +13,8 @@
 
 # 오픈소스 참고자료
 
-## 1. [오픈소스 소프트웨어 활용 및 기여하기](use-and-contribute-to-opensource-software.html)
-## 2. [오픈소스 프로젝트 개발 및 기여하기](references-for-opensource-project-development.html)
+## 1. [오픈소스 소프트웨어 활용 및 기여하기](use-and-contribute-for-opensource-software.html)
+## 2. [오픈소스 프로젝트 개발 및 기여하기](develop-and-contribute-for-opensource-project.html)
 
 - - -
 문의사항: [GitHub 이슈 등록](https://github.com/CAU-DOSC/cau-dosc.github.io/issues/new) 혹은 이메일: jjg.joojis@gmail.com
