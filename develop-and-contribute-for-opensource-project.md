@@ -16,11 +16,16 @@
 
 #### Wiki
 
+![](images/github-wiki-example.png)
+
 GitHub 저장소의 "Wiki" 탭에서 볼 수 있습니다. 저장소 관리자가 비활성화하면 보이지 않습니다. 일반적으로 해당 저장소에 Push 권한이 있는 사람이 수정할 수 있습니다. 저장소에 따라 누구나 수정할 수 있는 위키도 있습니다. 수정하고 싶은데 권한이 Issues에 관련 내용을 등록하거나 (만약 있다면)Contribution 가이드라인에 따라 수정을 요구할 수 있습니다.
 
 #### GitHub Pages
 
 GitHub 저장소의 gh-pages 브랜치나 "docs" 디렉토리에 웹페이지 형식으로 문서화 할 수 있습니다. GitHub 저장소의 코드 수준으로 저장되고 이는 Push 권한이 반드시 필요합니다. Pull Request를 통해서 수정사항을 직접 보낼 수 있습니다.
+
+![](images/github-pages-branch-example.png)
+![](images/github-pages-example.png)
 
 #### 외부 문서화 서비스
 
