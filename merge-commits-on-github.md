@@ -40,6 +40,6 @@ GitHub에만 업데이트가 있는 3의 경우 `git pull` 명령어로 간단�
 
 ![](images/git-pull-fast-forward.PNG)
 
-4의 경우도 `git pull` 명령어로 합칠 수 있습니다. 다만, 내가 작성한 커밋과 충돌이 있을 경우 아래처럼 CONFLICT가 발생할 수 있습니다. 이 경우 [충돌 해결하기 문서](resolve-merge-conflict.html)를 참고하세요. 
+4의 경우도 `git pull` 명령어로 합칠 수 있습니다. 다만, 내가 작성한 커밋과 충돌이 있을 경우 아래처럼 CONFLICT가 발생할 수 있습니다. 이 경우 [충돌 해결하기 문서](resolve-merge-conflict.md)를 참고하세요. 
 
 ![](images/git-pull-merge-conflict.PNG)

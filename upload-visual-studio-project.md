@@ -4,7 +4,7 @@
 
 바탕화면의 ![](images/git-bash.PNG)를 찾아 열거나, 없을 경우 공식 홈페이지에서 다운로드([링크](https://git-scm.com/downloads))하여 설치합니다.
 
-[공용PC 에서 Git 설치 시 주의사항](notices-to-use-git-on-laboratory-pc.html#3-git-설치-시-주의사항)
+[공용PC 에서 Git 설치 시 주의사항](notices-to-use-git-on-laboratory-pc.md#3-git-설치-시-주의사항)
 
 ## Visual Studio 프로젝트 폴더로 이동
 
@@ -39,7 +39,7 @@
 
 2. `git add .` 명령어를 통해 무시할 파일 외의 모든 파일을 Git에 올립니다.
 3. `git commit` 명령어를 통해 `git add`로 올려진 파일을 패치로 확정짓습니다. commit 단위로 GitHub 저장소에 업로드가 가능합니다.
-   * 참고: [Vi 에디터로 커밋 메시지 작성 방법](how-to-write-commit-messages-using-vi.html)
+   * 참고: [Vi 에디터로 커밋 메시지 작성 방법](how-to-write-commit-messages-using-vi.md)
     
    ![](images/visual-studio-git-add-and-git-commit.PNG)
 
@@ -54,7 +54,7 @@
 
 ## GitHub에 push 하기
 
-1. GitHub 저장소에 commit을 업로드하기 위해 GitHub에 생성한 내 프로젝트 페이지로 가서 Git 주소를 복사합니다. ([GitHub 프로젝트 생성 가이드](github-for-newbie.html))
+1. GitHub 저장소에 commit을 업로드하기 위해 GitHub에 생성한 내 프로젝트 페이지로 가서 Git 주소를 복사합니다. ([GitHub 프로젝트 생성 가이드](github-for-newbie.md))
 
    ![](images/empty-repo-quick-setup.PNG)
    
@@ -67,4 +67,4 @@
 
    ![](images/github-login.PNG)
    
-- [push 실패 시에 체크리스트](notices-to-use-git-on-laboratory-pc.html#2-git-push-실패-시-permission-denied)
+- [push 실패 시에 체크리스트](notices-to-use-git-on-laboratory-pc.md#2-git-push-실패-시-permission-denied)
