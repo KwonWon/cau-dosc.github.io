@@ -13,7 +13,7 @@
 
 ### 2-1. 수업 실습용 프로젝트 생성
 
-[CAU-DOSC 조직 내 팀 및 프로젝트 생성](create-org-repo.html) 페이지 참고
+[CAU-DOSC 조직 내 팀 및 프로젝트 생성](create-org-repo.md) 페이지 참고
 
 ### 2-2. 개인 프로젝트 생성
 
@@ -26,7 +26,7 @@
 
 ## 3. 소스코드 올리기
 
-링크: [Visual Studio 프로젝트 업로드 하기](upload-visual-studio-project.html)
+링크: [Visual Studio 프로젝트 업로드 하기](upload-visual-studio-project.md)
 
 ## 4. 콜라보레이터 추가
 
