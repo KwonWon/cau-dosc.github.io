@@ -1,0 +1,18 @@
+Open Source Project 1
+20115929 권원
+
+Open Source Project Name : The Algorithms
+Current Status : 기초적인 sorting Algorithm에 대한 coding만 완성되어 있는 상태이다. Binary Tree부터 BubbleSort, QuickSort, HeapSort 등이 존재하지만 Weighted Quick Searching Algorithm등 응용된 Algorithms들은 존재하지 않는다. 
+Development Tool : Java
+
+본인 과제 설명 : Data Structure에서 Stack이 사용되는 부분, 예를 들어 Maze Root Finding, 8 Puzzles 같은 응용적인 부분에 대한 추가, 실제 사용되는 심화적인 내용에 대한 부분을 추가하고자 한다.
+
+Contribution할 내용 : 
+1.	Data Structure 내의 stack 부분이 미흡하다. 현재 stack이 이동되었을 때 stack_Length만 ++되는 알고리즘까지 구현되어 있다. ( push, pop까지 구현 ) Hanoi 탑의 구현 등 실제로 스택이 사용될 기초적인 예제에 대한 Code들을 추가한다.
+2.	Push와 Pop 이후 Max_Size를 Resizing 하는 과정이 매끄럽게 구현 되어있지 않다.
+3.	Stack 함수가 기본적으로 생성자로 구현되어 있어서 Size를 유동성 있게 만들기 쉽지 않다. 이 부분을 동적할당으로 수정하고자 한다.
+4.	Algorithm에는 기본적인 알고리즘에 대한 구조만 나와있기 때문에, 실제 사용영역에 대한 설명 자체가 너무 부족하다. 이 부분에 대한 추가정보를 넣고자 한다.
+5.	Quick sort 등에서 더 보완된 Sorting Algorithm들을 추가하고자 한다.
+6.	Dynamic Programming에 더 다양한 예제 코드들과 예제들을 Push해서 많은 다른 Programmer들과 소통하고자 한다.
+
+
